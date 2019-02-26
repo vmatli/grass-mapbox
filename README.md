@@ -1,4 +1,9 @@
-# GRASS MapBoxGL Tutorial
+# GIS 714 Assignment 3
+
+This repository was created as a part of a tutorial which covered the basics of visualizing results from GRASS waterflow simulations in Mapbox. The dataset used for this project comes from GRASS GIS sample dataset from North Carolina. The procedure used for developing this map is shown below
+
+
+## GRASS MapBoxGL Tutorial
 
 ## How to Host Your Animated GRASS simulations with MapBoxGL JS and GitHub
 
